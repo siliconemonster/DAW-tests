@@ -52,7 +52,7 @@ def midi_to_wav(
 
 if __name__ == "__main__":
     midi_to_wav(
-        midi_path=r"D:\testes mestrado\DAW-tests\midis\midi31.mid",
+        midi_path=r"D:\testes mestrado\DAW-tests\midis\midi1.mid",
         vst_path=r"C:\Program Files\VstPlugins\Dexed.dll",
         preset_path=r"C:\Users\aline\Dexed_Patches\PianoPatch.xfd",
         output_path=r"D:\testes mestrado\DAW-tests\waves\output.wav",
